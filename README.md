@@ -138,31 +138,6 @@ Edit the CSS custom properties in `styles.css`:
 - Replace images in the `images/` and `team/` directories
 - Maintain the same image dimensions for best results
 
-## 🌐 Deployment
-
-### GitHub Pages
-1. Push your code to a GitHub repository
-2. Go to repository Settings → Pages
-3. Select source branch (usually `main`)
-4. Your site will be available at `https://username.github.io/repository-name`
-
-### Other Hosting Options
-- **Netlify**: Drag and drop deployment
-- **Vercel**: Connect your GitHub repository
-- **Traditional hosting**: Upload files to your web server
-
-## 🐛 Known Issues
-
-- None currently reported
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
